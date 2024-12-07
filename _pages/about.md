@@ -13,7 +13,7 @@ redirect_from:
 </style>
 # <font color=purple>✨Welcome to my Homepage!</font>
 
-<img src="https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/2798b64df66f846f7d0ca396e1419d3.png" alt="4ea0326ef75c39ddd83a0f807c1d944" width=600 /> 
+<img src="https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/ragehtsghndf.jpeg" alt="4ea0326ef75c39ddd83a0f807c1d944" width=600 /> 
 
 ---
 
