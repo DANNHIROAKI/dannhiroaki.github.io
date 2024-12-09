@@ -13,13 +13,13 @@ redirect_from:
 </style>
  ![](https://komarev.com/ghpvc/?username=DANNHIROAKI&color=green) 
 
-# <font color=purple>✨Welcome to my Homepage!</font>
+# <font color=purple>✨Welcome to my Homepage!</font> 
 
 <img src="https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/ragehtsghndf.jpeg" alt="4ea0326ef75c39ddd83a0f807c1d944" width=600 /> 
 
 ---
 
-# <font color=purple>👤About Me</font>
+# <font color=purple>👤About Me</font> 
 
 I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an undergraduate student (2021 fall intake) at the [XJTU](http://en.xjtu.edu.cn/) in the [Faculty of EIE](https://eie.xjtu.edu.cn/en/index.htm). I will pursue my PhD (2025 fall intake) at the [HKUST (GZ)](https://www.hkust-gz.edu.cn) in [DSA Thrust](https://dsa.hkust-gz.edu.cn/), honorably advised by Prof. [Shangqi Lu](https://shangqilu.github.io/).  
 
@@ -37,7 +37,7 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an under
 
 ---
 
-# <font color=purple>📇Short Bio</font>
+# <font color=purple>📇Short Bio.</font> 
 
 *For more please refer to my [CV](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/CV_2_Pages_EN.pdf)*  
 
@@ -57,7 +57,7 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an under
 
 ---
 
-# <font color=purple>📚Publications</font>
+# <font color=purple>📚Selected Pub.</font> 
 
 *For full publication list please refer to my [ORCID](https://orcid.org/0000-0002-2082-5363), \*mark means co-first authors*  
 
@@ -68,7 +68,7 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an under
 
 ---
 
-# <font color=purple>🌵Services</font>
+# <font color=purple>🌵Current Services</font> 
 
 - 2024.04～Present: **Reviewer** for *[IEEE Access](https://ieeeaccess.ieee.org/)* (JCR-2). 
 - 2023.12～Present: **Reviewer** for *[Computational economics](https://link.springer.com/journal/10614)* (JCR-3). 
@@ -77,7 +77,7 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an under
 
 ---
 
-# <font color=purple>📢News</font>
+# <font color=purple>📢Recent News</font> 
 
 - **2024.05.24.** Congratulations on my friend [Jian'an Zhang](https://scholar.google.com/citations?user=_GX9j1YAAAAJ&hl) for getting his PhD offer from [GSM](https://en.gsm.pku.edu.cn/) at PKU, honorably advised by Prof. [Chenxu Li](https://en.gsm.pku.edu.cn/faculty/cxli/).   
 - **2024.04.06.** My [work](https://arxiv.org/abs/2310.01884v1) with [Jian'an Zhang](https://scholar.google.com/citations?user=_GX9j1YAAAAJ&hl) was awarded the outstanding paper at the 6th National Development Youth Forum organised by the [NSD](https://nsd.pku.edu.cn/) at PKU. [[link](https://mp.weixin.qq.com/s/nWHSswtN0Lx6qDYpxc_3fw)]
@@ -85,10 +85,11 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an under
 
 ---
 
-# <font color=purple>🔗Useful Links</font>
+# <font color=purple>🌐Links & Media</font>
 
 - My [Github](https://github.com/DANNHIROAKI): Helpful materials of mine.
 - My [CSDN](https://blog.csdn.net/qq_64091900?type=blog): Interesting blogs of mine, with a highly personalized markdown style [(a demo)](https://blog.csdn.net/qq_64091900/article/details/143471330).
+- My [Zhihu](https://www.zhihu.com/people/cornelia-street-19)：Various ideas and thoughts of mine.
 
  
 
